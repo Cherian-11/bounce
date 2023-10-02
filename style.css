@@ -15,10 +15,10 @@ body {
 h1 {
   font-size: 2rem;
   letter-spacing: -1px;
-  position: centre;
+  position: absolute;
   margin: 0;
   top: -4px;
-  right: 5px;
+  right: 0px;
 
   color: transparent;
   text-shadow: 0 0 2px white;
